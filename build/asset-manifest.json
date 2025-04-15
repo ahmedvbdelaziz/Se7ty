@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sehty-X/static/css/main.d71a9257.css",
+    "main.js": "/Sehty-X/static/js/main.d1df8ee0.js",
+    "static/js/453.6992ec2a.chunk.js": "/Sehty-X/static/js/453.6992ec2a.chunk.js",
+    "index.html": "/Sehty-X/index.html",
+    "main.d71a9257.css.map": "/Sehty-X/static/css/main.d71a9257.css.map",
+    "main.d1df8ee0.js.map": "/Sehty-X/static/js/main.d1df8ee0.js.map",
+    "453.6992ec2a.chunk.js.map": "/Sehty-X/static/js/453.6992ec2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d71a9257.css",
+    "static/js/main.d1df8ee0.js"
+  ]
+}
